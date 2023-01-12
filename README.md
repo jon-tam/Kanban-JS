@@ -1,1 +1,1 @@
-# Kanban-JS
+# Kanban-JS Full Stack App
