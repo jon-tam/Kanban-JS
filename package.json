@@ -7,6 +7,9 @@
     "start": "server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
