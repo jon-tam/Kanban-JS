@@ -1,7 +1,7 @@
 {
   "name": "kanban-express",
   "version": "1.0.0",
-  "description": "100Devs Social Network",
+  "description": "full stack kanban board",
   "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
