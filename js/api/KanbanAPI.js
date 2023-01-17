@@ -11,7 +11,7 @@ export default class KanbanAPI {
 
  static insertItem(columnId, content) {
     const data = read();
-    const column = data.find(column => column.id ==columnId);
+    const column = data.find(column => column.id == columnId);
     const item = {
         id: Math.floor(Math.random() * 1000000),
         content
